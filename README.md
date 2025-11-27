@@ -1,5 +1,4 @@
 # python-basics-practice
-Author:- Yash Pareek
-<br>
-This repo is to stronge the foundation in python by Practice questions by Shradha Khapra 
 
+This repository contains my Python foundational practice.
+I am using this repo to build strong fundamentals before moving into backend frameworks like Flask and FastAPI.
